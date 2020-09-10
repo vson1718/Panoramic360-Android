@@ -1,0 +1,3 @@
+include ':panoramic'
+include ':app'
+rootProject.name = "Panoramic360-Android"
