@@ -8,6 +8,9 @@ import android.os.Bundle;
 import com.google.vr.sdk.widgets.pano.VrPanoramaEventListener;
 import com.google.vr.sdk.widgets.pano.VrPanoramaView;
 
+/**
+ * @author vson
+ */
 public class GoogleVRActivity extends AppCompatActivity {
 
 
